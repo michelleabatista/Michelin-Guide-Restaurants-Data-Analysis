@@ -11,4 +11,6 @@ This project analyzes Michelin-starred restaurants (1, 2, and 3 stars) using a K
 
 **Tools Used**: Python, Pandas, Plotly. Created with Colab.
 
-### Code + Analysis
+### Code + Analysis 
+
+https://github.com/michelleabatista/Michelin-Guide-Restaurants-Data-Analysis/blob/main/Michelin_Restaurants_Data_Analysis_and_Visualization.ipynb
